@@ -69,4 +69,4 @@ void loop()
 ```
 
 ## Result:
-Chasing of LED in Odd/Even pattern was verified after uploading the program.
+Chasing of LED in Odd/Even pattern was verified after uploading the program to the Arduino.
