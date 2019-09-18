@@ -46,7 +46,7 @@ void loop()
   digitalWrite(1, LOW);
   delay(500);
 }
-//Made by - Anshul Verma
+//Name - Anshul Verma
 //UID - 19BCS3537
 ```
 
